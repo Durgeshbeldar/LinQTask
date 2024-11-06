@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\LinQTaskDemo\LinQTaskDemo\obj\Debug\net8.0\LinQTaskDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\LinQTaskDemo\LinQTaskDemo\obj\Debug\net8.0\LinQTaskDemo.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\LinQTaskDemo\LinQTaskDemo\obj\Debug\net8.0\LinQTaskDemo.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\LinQTaskDemo\LinQTaskDemo\obj\Debug\net8.0\LinQTaskDemo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\LinQTaskDemo\LinQTaskDemo\bin\Debug\net8.0\LinQTaskDemo.exe
+C:\Users\ASUS\source\repos\LinQTaskDemo\LinQTaskDemo\bin\Debug\net8.0\LinQTaskDemo.deps.json
+C:\Users\ASUS\source\repos\LinQTaskDemo\LinQTaskDemo\bin\Debug\net8.0\LinQTaskDemo.runtimeconfig.json
+C:\Users\ASUS\source\repos\LinQTaskDemo\LinQTaskDemo\bin\Debug\net8.0\LinQTaskDemo.dll
+C:\Users\ASUS\source\repos\LinQTaskDemo\LinQTaskDemo\bin\Debug\net8.0\LinQTaskDemo.pdb
+C:\Users\ASUS\source\repos\LinQTaskDemo\LinQTaskDemo\obj\Debug\net8.0\LinQTaskDemo.dll
+C:\Users\ASUS\source\repos\LinQTaskDemo\LinQTaskDemo\obj\Debug\net8.0\refint\LinQTaskDemo.dll
+C:\Users\ASUS\source\repos\LinQTaskDemo\LinQTaskDemo\obj\Debug\net8.0\LinQTaskDemo.pdb
+C:\Users\ASUS\source\repos\LinQTaskDemo\LinQTaskDemo\obj\Debug\net8.0\LinQTaskDemo.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\LinQTaskDemo\LinQTaskDemo\obj\Debug\net8.0\ref\LinQTaskDemo.dll
